@@ -2,8 +2,8 @@
 APClips
 Archive.org
 Codolio
+DEV Community
 Discord.bio
-Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
@@ -18,7 +18,6 @@ Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
