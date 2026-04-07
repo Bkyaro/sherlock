@@ -1,17 +1,17 @@
 7Cups
 APClips
 Archive.org
+Bandcamp
 Codolio
-DEV Community
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,6 +27,7 @@ Weblate
 YandexMusic
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
