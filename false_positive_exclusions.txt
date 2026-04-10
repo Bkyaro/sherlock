@@ -2,6 +2,7 @@
 APClips
 Archive.org
 Bandcamp
+CGTrader
 Codolio
 Discord.bio
 GeeksforGeeks
