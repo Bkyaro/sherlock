@@ -2,7 +2,6 @@
 APClips
 Archive.org
 Bandcamp
-CGTrader
 Codolio
 Discord.bio
 GeeksforGeeks
@@ -26,9 +25,11 @@ Splice
 Spotify
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
