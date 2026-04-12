@@ -24,12 +24,11 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
-Wordnik
 YandexMusic
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
