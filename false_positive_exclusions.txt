@@ -3,8 +3,8 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Codolio
-DEV Community
 DeviantArt
 Discord.bio
 GeeksforGeeks
@@ -14,7 +14,6 @@ Hubski
 LessWrong
 LushStories
 Patched
-PocketStars
 Rarible
 Realmeye
 Reddit
@@ -31,7 +30,6 @@ Velomania
 Weblate
 YandexMusic
 dailykos
-eintracht
 interpals
 mercadolivre
 opennet
