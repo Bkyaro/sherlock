@@ -1,8 +1,10 @@
 7Cups
 APClips
+Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -11,9 +13,9 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -24,7 +26,9 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -33,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
