@@ -6,7 +6,6 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -37,4 +36,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
