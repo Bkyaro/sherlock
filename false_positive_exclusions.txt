@@ -1,13 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cults3D
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -17,18 +14,18 @@ Hubski
 LessWrong
 LushStories
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
+Replit.com
 RocketTube
 Scribd
 Shelf
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
