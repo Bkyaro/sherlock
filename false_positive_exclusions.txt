@@ -6,6 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -13,6 +14,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -20,13 +22,12 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
-Smule
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 Weblate
@@ -39,4 +40,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
