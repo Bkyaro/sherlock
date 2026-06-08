@@ -6,8 +6,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Carbonmade
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,6 +16,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Open Collective
 Patched
 Pornhub
 Rarible
@@ -28,7 +29,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -41,4 +41,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
