@@ -5,7 +5,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Chess
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,6 +18,8 @@ LessWrong
 LushStories
 Odysee
 Patched
+Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -26,17 +30,17 @@ Shelf
 SlideShare
 Splice
 Spotify
-Tenor
+Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
