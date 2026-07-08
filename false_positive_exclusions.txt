@@ -5,9 +5,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+BoardGameGeek
 BreachSta.rs Forum
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -15,8 +15,10 @@ Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -30,7 +32,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
