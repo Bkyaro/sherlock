@@ -12,12 +12,12 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Hubski
 LessWrong
 LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -28,6 +28,7 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
@@ -44,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
