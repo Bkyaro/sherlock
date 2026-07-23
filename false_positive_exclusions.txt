@@ -12,7 +12,6 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
 Hubski
 LessWrong
@@ -28,7 +27,6 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
@@ -45,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
