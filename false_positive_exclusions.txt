@@ -6,7 +6,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
+BoardGameGeek
+CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -21,9 +22,11 @@ Hubski
 Instapaper
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -35,7 +38,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
