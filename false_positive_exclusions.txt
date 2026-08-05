@@ -6,8 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BoardGameGeek
-CGTrader
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -20,7 +19,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LessWrong
 LushStories
 Minecraft
 Odysee
