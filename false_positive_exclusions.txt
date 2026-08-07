@@ -6,7 +6,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CGTrader
+Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -28,6 +31,7 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+Scribd
 Shelf
 SlideShare
 Splice
@@ -45,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
