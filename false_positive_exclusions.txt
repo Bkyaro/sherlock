@@ -14,7 +14,6 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
@@ -22,7 +21,6 @@ Instapaper
 LushStories
 Odysee
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -40,6 +38,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
