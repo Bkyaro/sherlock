@@ -9,18 +9,19 @@ Bandcamp
 Chatujme.cz
 Codolio
 Cracked Forum
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Houzz
 Hubski
 Instapaper
 LushStories
-Minecraft
 Odysee
 PCGamer
 Pornhub
@@ -51,3 +52,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
