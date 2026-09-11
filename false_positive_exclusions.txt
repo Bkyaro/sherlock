@@ -10,6 +10,7 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
+ColourLovers
 DeviantArt
 Discord.bio
 Envato Forum
@@ -19,7 +20,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -50,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
