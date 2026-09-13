@@ -9,9 +9,7 @@ Bandcamp
 Championat
 Chatujme.cz
 ChaturBate
-Chess
 Codolio
-ColourLovers
 Cracked Forum
 DeviantArt
 Discord.bio
@@ -22,9 +20,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
+LushStories
 ObservableHQ
-Odysee
 PCGamer
 Pornhub
 Rarible
@@ -54,3 +51,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
