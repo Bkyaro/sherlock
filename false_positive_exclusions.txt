@@ -7,7 +7,6 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
-BoardGameGeek
 CGTrader
 Championat
 Chatujme.cz
@@ -25,11 +24,13 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
-LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -40,6 +41,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -48,7 +50,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 igromania
 interpals
@@ -57,4 +58,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
