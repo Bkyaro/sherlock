@@ -5,8 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
-Carbonmade
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -23,10 +22,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LushStories
-Minecraft
-NationStates Nation
-NationStates Region
 ObservableHQ
 Odysee
 PCGamer
