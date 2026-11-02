@@ -6,11 +6,11 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -35,9 +35,10 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
+Velomania
 Vero
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -45,6 +46,7 @@ fixya
 hunting
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
