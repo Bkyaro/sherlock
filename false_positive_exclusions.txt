@@ -1,9 +1,9 @@
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -14,12 +14,14 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitHub
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
+LiveJournal
 LushStories
 Minecraft
 ObservableHQ
@@ -35,10 +37,10 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -46,7 +48,6 @@ fixya
 hunting
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
