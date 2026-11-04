@@ -1,5 +1,7 @@
+APClips
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
@@ -14,15 +16,13 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-GitHub
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itemfix
 Linktree
-LiveJournal
-LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -46,6 +46,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
