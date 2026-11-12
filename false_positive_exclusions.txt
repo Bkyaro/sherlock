@@ -5,7 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -51,4 +51,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
